@@ -1,0 +1,10 @@
+---
+# Steam account credentials
+steam_username_plaintext: "" # Steam account username. This is only if you want to hardcode your username.
+steam_password_plaintext: "" # Steam account password. This is only if you want to hardcode your password.
+
+# Arma server config:
+Arma3Server_HostName:  # Servername visible in the game browser.
+Arma3Server_Password:  # Password required to connect to server. 
+Arma3Server_AdminPassword:  # Password to protect admin access. (#login)
+Arma3Server_ServerCommandPassword:  # Password required by alternate syntax of serverCommand server-side scripting. 
